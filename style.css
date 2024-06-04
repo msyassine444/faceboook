@@ -1,0 +1,26 @@
+center{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+button{
+padding: 10px 20px;
+font-size: 16px;
+background: #0044ff;
+color: #fff;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+input{
+padding: 10px;
+font-size: 16px;
+border: 1px solid #ccc;
+}
+body{
+
+background-color: #ffffffad;
+
+
+}
